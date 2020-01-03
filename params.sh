@@ -5,6 +5,7 @@ annotation: ftp://ftp.ensemblgenomes.org/pub/release-45/plants/gtf/arabidopsis_t
 chip_num: 1
 input_num: 1
 rscript: peak_analysis.R
+output: ./
 
 chip_1: SRR6031857
 input_1: SRR6031858

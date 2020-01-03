@@ -7,6 +7,7 @@ annotation: /home/elme/PIPECHIP/test/chromosome1.gtf
 chip_num: 1
 input_num: 1
 rscript: peak_analysis.R
+output: ./
 
 chip_1: /home/elme/PIPECHIP/test/chip1.fastq
 input_1: /home/elme/PIPECHIP/test/input1.fastq
