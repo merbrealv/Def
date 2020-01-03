@@ -14,7 +14,7 @@
 ## ChIP Seq
 
 ChIP-Seq is a method used to analyze protein interactions with DNA.It combines chromatin immunoprecipitation with massively parallel DNA 
-sequencing to identify the binding sites of DNA-associated proteins. PIPECHIP_1 allows to discover the interaction sites. 
+sequencing to identify the binding sites of DNA-associated proteins. pipe.sh allows to discover the interaction sites. 
 
 ## Usage
 
